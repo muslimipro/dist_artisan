@@ -1,1 +1,0 @@
-import{b as n,o as p,p as r,y as s}from"./index-DFc1atBe.js";const m=n({__name:"MdViewer",props:{text:{}},setup(e){const t=e;return(c,_)=>{const o=s("v-md-preview");return p(),r(o,{text:t.text},null,8,["text"])}}});export{m as _};
