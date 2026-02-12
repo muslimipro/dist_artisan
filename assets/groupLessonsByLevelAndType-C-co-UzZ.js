@@ -1,0 +1,1 @@
+import{A as t}from"./lessonType-DG-bLtoJ.js";function c(s,n){const e={};for(const o of n){e[o.id]={};for(const r of t)e[o.id][r]=[]}for(const o of s)e[o.levelId][o.lessonType].push(o);return e}export{c as g};
