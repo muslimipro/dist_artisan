@@ -1,0 +1,1 @@
+import{d as r,K as u,f as i,r as f,b as L}from"./index-CS6zrGuk.js";import{A as o}from"./language-DYQF8nnT.js";const m=r("locale-store",()=>{const s=u(),{locale:t}=i(),n=s.query.lang,l=o.find(e=>e.locale===n)??o.find(e=>e.locale===t.value)??o[0],a=f(l),c=L(()=>a.value.locale);return{selectedLang:a,lang:c}});export{m as u};
