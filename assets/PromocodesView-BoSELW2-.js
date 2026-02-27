@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as r,a as s,o as t}from"./index-Bw5DXeTp.js";const c={},d={class:"bg-white rounded-md flex-grow px-4 py-2 border"};function a(n,e){return t(),r("div",d,e[0]||(e[0]=[s("div",{class:"text-lg"},"Promocodes",-1)]))}const _=o(c,[["render",a]]);export{_ as default};

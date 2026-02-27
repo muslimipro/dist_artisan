@@ -1,1 +1,0 @@
-import{d as n,r,U as o}from"./index-xHJf77If.js";const l=n("admin-store",()=>{const e=r([]),s=r(!1);async function t(){try{s.value=!0;const{data:a}=await o.getUsers();a?e.value=a:e.value=[]}finally{s.value=!1}}return{users:e,isLoading:s,loadUsers:t}});export{l as u};
